@@ -1,2 +1,0 @@
-language = "c++"
-run = "g++ calculator.cpp ; ./a.out"
